@@ -8,7 +8,7 @@ _Last update: September 10, 2023,_ _Author: Jennifer Kao_
 To use the clinical trial and publication data from this paper, researchers should download the following files: 
 
 * 1_trialtransparency_data_9Aug2023.dta
-* 2_codebook.xls
+* 2_codebook.xlsx
 
 ## Notes
 * The file **1_trialtransparency_data_9Aug2023.dta** provides the clinical trial and publication data used in this study. The raw files used to generate this dataset come from the Clinical Trials Transformation Initiative at https://aact.ctti-clinicaltrials.org/download (they correspond to the 20220425_pipe-delimited-export.zip folder located on that webpage).
