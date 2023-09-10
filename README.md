@@ -1,6 +1,6 @@
 # Trial Transparency
 
-Files for the manuscript "Transparency of Results Reporting in Cancer Clinical Trials" for the paper **Kao, Jennifer, Joseph S. Ross, and Jennifer E. Miller. "Transparency of Results Reporting in Cancer Clinical Trials." JAMA Network Open 6, no. 8 (2023): e2328117-e2328117**. The paper is available at https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808125.
+Data files for the paper **Kao, Jennifer, Joseph S. Ross, and Jennifer E. Miller. "Transparency of Results Reporting in Cancer Clinical Trials." JAMA Network Open 6, no. 8 (2023): e2328117-e2328117**. The paper is available at https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808125.
 
 ## Accessing the research data 
 _Last update: September 10, 2023,_ _Author: Jennifer Kao_
